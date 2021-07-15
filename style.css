@@ -20,15 +20,14 @@ form {
     top: 149%;
     left: 6%;
     /* background-image: url("./amman-201d33/class-10/lab-a/lab-assets/list-bg.png"); */
-    font-family: 'Inconsolata', monospace;
-    text-align: left;
+    font-family: 'Indie Flower', cursive;    text-align: left;
   background-size: cover;
   width: 900px;
   margin-left: 188px;
 
 }
 div #left {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Indie Flower', cursive;
     position: relative;
     bottom: 220px;
 }
