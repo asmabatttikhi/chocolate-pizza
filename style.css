@@ -1,23 +1,48 @@
  h1{
     color: black;
-    font-family: 'Changa One', cursive;
-    margin-left: 215px;
+    font-family: 'Bebas Neue',cursive;
+            margin-left: 215px;
     height: 50px;
 }
 p{
     font-family: 'Inconsolata', monospace;
 color: grey;
 text-align: center;
-
+width: 70%;
+margin-left: 15%;
 }
 div{
     text-align: center;
 }
 
 form {
-
-    background-image: url("lab-assets/list-bg.png");
+    position: absolute;
+    top: 149%;
+    left: 6%;
+    /* background-image: url("./amman-201d33/class-10/lab-a/lab-assets/list-bg.png"); */
+    font-family: 'Inconsolata', monospace;
     text-align: left;
-    width: 750px;
-    
+  background-size: cover;
+  width: 900px;
+  margin-left: 188px;
+
+}
+div #left {
+    font-family: 'Inconsolata', monospace;
+    position: relative;
+    bottom: 220px;
+}
+#btn {
+background-color: brown;
+color: white;
+width: 110px;
+margin-left: 1000px;
+}
+#p {
+    color: black;
+    margin-left: 10%;
+}
+h4{
+    margin-left: 15%;
+
 }
