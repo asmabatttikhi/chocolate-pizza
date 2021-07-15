@@ -1,0 +1,23 @@
+ h1{
+    color: black;
+    font-family: 'Changa One', cursive;
+    margin-left: 215px;
+    height: 50px;
+}
+p{
+    font-family: 'Inconsolata', monospace;
+color: grey;
+text-align: center;
+
+}
+div{
+    text-align: center;
+}
+
+form {
+
+    background-image: url("lab-assets/list-bg.png");
+    text-align: left;
+    width: 750px;
+    
+}
